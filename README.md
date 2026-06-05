@@ -71,39 +71,9 @@ JavaScript
 Chart.js
 Font Awesome
 
-📂 Project Structure
-myproj/
-│
-├── manage.py
-│
-├── myproj/
-│   ├── settings.py
-│   ├── urls.py
-│   ├── wsgi.py
-│   └── asgi.py
-│
-├── myapp/
-│   ├── models.py
-│   ├── views.py
-│   ├── forms.py
-│   ├── urls.py
-│   ├── admin.py
-│   └── templates/
-│       └── myapp/
-│           ├── base.html
-│           ├── dashboard.html
-│           ├── staff_list.html
-│           ├── inventory_list.html
-│           ├── product_list.html
-│           ├── customer_list.html
-│           ├── order_list.html
-│           └── ...
-│
-└── db.sqlite3
 
 ⚙️ Installation
-Clone Repository
-git clone https://github.com/yourusername/bakery-management-system.git
+
 cd bakery-management-system
 Create Virtual Environment
 python -m venv venv
